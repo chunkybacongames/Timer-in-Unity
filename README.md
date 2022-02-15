@@ -3,4 +3,4 @@
  
 A simple timer in Unity using events.
 
-Tutorial: [https://youtu.be/Eh8diyxqKVY](https://youtu.be/Eh8diyxqKVY)
+Tutorial: [https://youtu.be/DH2ZxwRBwwg](https://youtu.be/DH2ZxwRBwwg)
