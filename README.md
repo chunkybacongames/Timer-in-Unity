@@ -1,4 +1,4 @@
-# Moving with DOTween in Unity
+# Timer in Unity
 
 A simple timer in Unity using events.
 
